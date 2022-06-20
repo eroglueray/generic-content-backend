@@ -39,9 +39,6 @@ app.post("/api/add", (req, res) => {
     }
 });
 
-// app.listen(port, () => {
-//     console.log(`Example app listening at http://localhost:${port}`);
-// });
 var server = http.listen(port, function () {
     const port = server.address().port;
     console.log(`Express is working on port ${port}`);
