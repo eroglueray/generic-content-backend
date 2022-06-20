@@ -1,2 +1,2 @@
 # generic-content-backend
-You can start with yarn followed by yarn start. Then app is running port on 1955
+You can start with npm install or yarn followed by yarn start or npm start. Then app is running ports on 1955
